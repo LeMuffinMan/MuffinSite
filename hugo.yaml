@@ -1,4 +1,4 @@
-baseURL: https://lemuffinman.github.io/MuffinSite
+baseURL: https://lemuffinman.github.io/MuffinSite/
 languageCode: en-us
 title: MuffinSite
 theme: ["PaperMod"]
@@ -8,7 +8,7 @@ params:
     enabled: true
     title: "Muffin" # optional default will be site title
     subtitle: "Curious and passionate about systems and coding"
-    imageUrl: "/images/avatar.jpg" # optional
+    imageUrl: "images/avatar.jpg" # optional
     imageTitle: "" # optional
     imageWidth: 220 # custom size
     imageHeight: 220 # custom size
