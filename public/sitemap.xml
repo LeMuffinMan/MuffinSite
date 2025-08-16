@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/MuffinSite/categories/</loc>
+    <loc>https://lemuffinman.github.io/MuffinSite/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/MuffinSite/projects/</loc>
+    <loc>https://lemuffinman.github.io/MuffinSite/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/MuffinSite/</loc>
+    <loc>https://lemuffinman.github.io/MuffinSite/</loc>
   </url><url>
-    <loc>http://localhost:1313/MuffinSite/tags/</loc>
+    <loc>https://lemuffinman.github.io/MuffinSite/tags/</loc>
   </url>
 </urlset>
