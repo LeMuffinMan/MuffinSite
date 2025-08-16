@@ -1,4 +1,4 @@
-baseURL: https://LeMuffinMan.github.io/
+baseURL: https://lemuffinman.github.io/
 languageCode: en-us
 title: MuffinSite
 theme: ["PaperMod"]
@@ -29,3 +29,7 @@ menu:
     # - name: "Blog"
     #   url: "/posts/"
     #   weight: 3
+
+caches:
+  images:
+    dir: :cacheDir/images
